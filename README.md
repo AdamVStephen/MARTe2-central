@@ -5,7 +5,7 @@ non-exhaustive list of MARTe2 git repositories and tooling.  If you would like t
 
 - [Community.md](Community.md)
 - [Core.md](Core.md)
-- [Deprecated.md](Deprecated.md)
+- [Distributions.md](Distributions.md)
 - [Packages.md](Packages.md)
 - [README.md](README.md)
 - [Training.md](Training.md)
